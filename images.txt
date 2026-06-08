@@ -7,3 +7,4 @@ xhofe/alist:latest
 ghcr.io/librespeed/speedtest:latest
 alpine:3.19
 ohttps/ohttps-nginx
+ghcr.io/librespeed/speedtest:latest
